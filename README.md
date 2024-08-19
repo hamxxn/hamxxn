@@ -1,6 +1,6 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=535C91&height=40&section=header&text=Hamin&fontSize=30)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/hamxxn/github-readme-stats)
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=535C91&height=200&section=footer)
