@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=74E291&height=300&section=header&text=Welcome%20to%20Hamin's%20GitHub&fontSize=30)
 <h3 align="center">🍀</h3>
 <p align="center">
@@ -12,5 +10,5 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=74E291&height=200&section=footer)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_iconhamins=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamin&layout=compact)
