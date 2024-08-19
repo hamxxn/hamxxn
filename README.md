@@ -10,5 +10,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_iconhamins=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamin&layout=compact)
+<h3 align="center">🍀</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=&show_iconhamins=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamin&layout=compact"/>
+</h3>
