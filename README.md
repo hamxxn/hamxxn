@@ -11,6 +11,6 @@
   <br>
 </p>
 <h3 align="center">🍀</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=&show_iconhamins=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamin&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hamxxn&show_iconhamins=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxxn&layout=compact"/>
 </h3>
