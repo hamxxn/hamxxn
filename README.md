@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=74E291&height=300&section=header&text=Welcome to Hamin's GitHub&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=74E291&height=300&section=header&text=Welcome%20to%20Hamin's%20GitHub&fontSize=30)
 <h3 align="center">🍀</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
