@@ -9,12 +9,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
 </p>
-<h3 align="center">🍀</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxxn&layout=compact"/>
 </p>
 </h3>
-<h3 align="center">🍀</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamxxn&show_iconhamins=true&theme=radical"/>
 </p>
